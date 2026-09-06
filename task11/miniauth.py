@@ -96,16 +96,11 @@ def main():
 main()
 
 '''
-Login Details
+Example Outuput
 
-Username: admin
-Password: python123
-
-Example: Successful Login
 ===== Mini Authentication System =====
 1. Login
 2. Exit
-
 Enter your choice: 1
 Enter username: admin
 Enter password: python123
@@ -115,11 +110,25 @@ Login successful!
 ===== User Menu =====
 1. Welcome Message
 2. Logout
+Enter your choice: 
+Invalid choice. Please try again.
 
+===== User Menu =====
+1. Welcome Message
+2. Logout
 Enter your choice: 1
 Welcome to the application, admin!
 
+===== User Menu =====
+1. Welcome Message
+2. Logout
 Enter your choice: 2
 Logged out successfully.
+
+===== Mini Authentication System =====
+1. Login
+2. Exit
+Enter your choice: 2
+Thank you for using the application!
 
 '''

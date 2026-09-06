@@ -128,14 +128,40 @@ main()
 
 '''
 Example Output
-Name: Laptop
-Price: ₹50000
-Quantity: 2
+===== Inventory Management =====
+1. Add Product
+2. Display Products
+3. Search Product
+4. Update Quantity
+5. Calculate Total Inventory Value
+6. Exit
+Enter your choice (1-6): 1
+Enter product name: Laptop
+Enter product price: ₹50000
+Enter product quantity: 2
+Product added successfully!
 
-Name: Mouse
-Price: ₹500
-Quantity: 5
+===== Inventory Management =====
+1. Add Product
+2. Display Products
+3. Search Product
+4. Update Quantity
+5. Calculate Total Inventory Value
+6. Exit
+Enter your choice (1-6): 1
+Enter product name: Mouse 
+Enter product price: ₹500 
+Enter product quantity: 5
+Product added successfully!
 
+===== Inventory Management =====
+1. Add Product
+2. Display Products
+3. Search Product
+4. Update Quantity
+5. Calculate Total Inventory Value
+6. Exit
+Enter your choice (1-6): 5
 Total Inventory Value: ₹102500.00
 
 '''
